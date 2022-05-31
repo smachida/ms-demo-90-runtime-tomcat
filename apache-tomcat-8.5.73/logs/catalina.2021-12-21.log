@@ -1,0 +1,51 @@
+21-Dec-2021 21:54:50.018 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log Serverのバージョン名:     Apache Tomcat/8.5.73
+21-Dec-2021 21:54:50.033 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log Server ビルド:            Nov 11 2021 13:14:36 UTC
+21-Dec-2021 21:54:50.034 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log サーバーのバージョン番号: 8.5.73.0
+21-Dec-2021 21:54:50.034 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log OS 名:                    Linux
+21-Dec-2021 21:54:50.034 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log OS バージョン:            4.15.0-163-generic
+21-Dec-2021 21:54:50.034 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log アーキテクチャ:           amd64
+21-Dec-2021 21:54:50.034 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                /usr/jdk/jdk-11.0.11
+21-Dec-2021 21:54:50.035 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM バージョン:           11.0.11+9-LTS-194
+21-Dec-2021 21:54:50.035 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM ベンダ:               Oracle Corporation
+21-Dec-2021 21:54:50.035 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:            /home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73
+21-Dec-2021 21:54:50.035 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:            /home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73
+21-Dec-2021 21:54:50.042 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Dec-2021 21:54:50.043 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.io=ALL-UNNAMED
+21-Dec-2021 21:54:50.043 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.util=ALL-UNNAMED
+21-Dec-2021 21:54:50.043 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Dec-2021 21:54:50.043 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Dec-2021 21:54:50.043 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djava.util.logging.config.file=/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/conf/logging.properties
+21-Dec-2021 21:54:50.044 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Dec-2021 21:54:50.044 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djdk.tls.ephemeralDHKeySize=2048
+21-Dec-2021 21:54:50.044 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+21-Dec-2021 21:54:50.045 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+21-Dec-2021 21:54:50.046 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Dignore.endorsed.dirs=
+21-Dec-2021 21:54:50.047 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Dcatalina.base=/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73
+21-Dec-2021 21:54:50.047 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Dcatalina.home=/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73
+21-Dec-2021 21:54:50.047 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djava.io.tmpdir=/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/temp
+21-Dec-2021 21:54:50.048 情報 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 商用環境に最適な性能を発揮する APR ベースの Tomcat ネイティブライブラリが java.library.path [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib] に存在しません。
+21-Dec-2021 21:54:50.167 情報 [main] org.apache.coyote.AbstractProtocol.init プロトコルハンドラ ["http-nio-8080"] を初期化します。
+21-Dec-2021 21:54:50.231 情報 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+21-Dec-2021 21:54:50.299 情報 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1987 ms
+21-Dec-2021 21:54:50.521 情報 [main] org.apache.catalina.core.StandardService.startInternal サービス [Catalina] を起動します
+21-Dec-2021 21:54:50.521 情報 [main] org.apache.catalina.core.StandardEngine.startInternal サーブレットエンジンの起動：[Apache Tomcat/8.5.73]
+21-Dec-2021 21:54:50.571 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webアプリケーションディレクトリ [/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/webapps/manager] を配備します
+21-Dec-2021 21:54:51.970 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/webapps/manager] の Web アプリケーションの配備は [1,394] ms で完了しました。
+21-Dec-2021 21:54:51.983 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webアプリケーションディレクトリ [/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/webapps/host-manager] を配備します
+21-Dec-2021 21:54:52.145 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/webapps/host-manager] の Web アプリケーションの配備は [163] ms で完了しました。
+21-Dec-2021 21:54:52.147 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webアプリケーションディレクトリ [/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/webapps/ROOT] を配備します
+21-Dec-2021 21:54:52.220 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/webapps/ROOT] の Web アプリケーションの配備は [74] ms で完了しました。
+21-Dec-2021 21:54:52.221 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webアプリケーションディレクトリ [/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/webapps/docs] を配備します
+21-Dec-2021 21:54:52.271 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/webapps/docs] の Web アプリケーションの配備は [49] ms で完了しました。
+21-Dec-2021 21:54:52.276 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webアプリケーションディレクトリ [/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/webapps/examples] を配備します
+21-Dec-2021 21:54:53.277 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/webapps/examples] の Web アプリケーションの配備は [1,002] ms で完了しました。
+21-Dec-2021 21:54:53.297 情報 [main] org.apache.coyote.AbstractProtocol.start プロトコルハンドラー ["http-nio-8080"] を開始しました。
+21-Dec-2021 21:54:53.340 情報 [main] org.apache.catalina.startup.Catalina.start Server startup in 3039 ms
+21-Dec-2021 21:55:43.305 情報 [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Webアプリケーションアーカイブ [/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/webapps/MsDemoMonolith.war] を配備します
+21-Dec-2021 21:55:44.490 情報 [localhost-startStop-2] org.apache.jasper.servlet.TldScanner.scanJars 少なくとも1つのJARが、まだTLDを含んでいないTLDについてスキャンされました。 スキャンしたが、そこにTLDが見つからなかったJARの完全なリストについては、このロガーのデバッグログを有効にしてください。 スキャン中に不要なJARをスキップすると、起動時間とJSPのコンパイル時間が改善されます。
+21-Dec-2021 21:55:48.241 情報 [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Web アプリケーションアーカイブ [/home/smachida/workspace/developer/apps/microservice-demo/runtime/apache-tomcat-8.5.73/webapps/MsDemoMonolith.war] の配備は [4,936] ms で完了しました。
+21-Dec-2021 21:57:27.738 情報 [main] org.apache.catalina.core.StandardServer.await 有効なシャットダウンコマンドがシャットダウンポート経由で受信されました。 サーバーインスタンスを停止します。
+21-Dec-2021 21:57:27.739 情報 [main] org.apache.coyote.AbstractProtocol.pause ProtocolHandler ["http-nio-8080"] を一時停止します。
+21-Dec-2021 21:57:27.749 情報 [main] org.apache.catalina.core.StandardService.stopInternal サービス [Catalina] を停止します
+21-Dec-2021 21:57:27.846 情報 [main] org.apache.coyote.AbstractProtocol.stop ProtocolHandler ["http-nio-8080"]の停止中
+21-Dec-2021 21:57:27.859 情報 [main] org.apache.coyote.AbstractProtocol.destroy ProtocolHandler ["http-nio-8080"] を破棄します。

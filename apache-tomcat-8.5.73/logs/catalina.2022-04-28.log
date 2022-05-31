@@ -1,0 +1,48 @@
+28-Apr-2022 15:22:43.608 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log Serverのバージョン名:     Apache Tomcat/8.5.73
+28-Apr-2022 15:22:43.615 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log Server ビルド:            Nov 11 2021 13:14:36 UTC
+28-Apr-2022 15:22:43.615 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log サーバーのバージョン番号: 8.5.73.0
+28-Apr-2022 15:22:43.616 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log OS 名:                    Linux
+28-Apr-2022 15:22:43.616 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log OS バージョン:            5.13.0-30-generic
+28-Apr-2022 15:22:43.616 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log アーキテクチャ:           amd64
+28-Apr-2022 15:22:43.616 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                /usr/lib/jvm/java-11-openjdk-amd64
+28-Apr-2022 15:22:43.616 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM バージョン:           11.0.15+10-Ubuntu-0ubuntu0.20.04.1
+28-Apr-2022 15:22:43.616 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM ベンダ:               Private Build
+28-Apr-2022 15:22:43.616 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:            /home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73
+28-Apr-2022 15:22:43.617 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:            /home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73
+28-Apr-2022 15:22:43.618 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.lang=ALL-UNNAMED
+28-Apr-2022 15:22:43.619 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.io=ALL-UNNAMED
+28-Apr-2022 15:22:43.619 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.util=ALL-UNNAMED
+28-Apr-2022 15:22:43.619 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-Apr-2022 15:22:43.619 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-Apr-2022 15:22:43.619 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djava.util.logging.config.file=/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73/conf/logging.properties
+28-Apr-2022 15:22:43.619 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Apr-2022 15:22:43.619 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djdk.tls.ephemeralDHKeySize=2048
+28-Apr-2022 15:22:43.619 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Apr-2022 15:22:43.620 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+28-Apr-2022 15:22:43.620 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Dignore.endorsed.dirs=
+28-Apr-2022 15:22:43.620 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Dcatalina.base=/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73
+28-Apr-2022 15:22:43.620 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Dcatalina.home=/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73
+28-Apr-2022 15:22:43.620 情報 [main] org.apache.catalina.startup.VersionLoggerListener.log コマンドライン引数:       -Djava.io.tmpdir=/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73/temp
+28-Apr-2022 15:22:43.620 情報 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 商用環境に最適な性能を発揮する APR ベースの Tomcat ネイティブライブラリが java.library.path [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib] に存在しません。
+28-Apr-2022 15:22:43.656 情報 [main] org.apache.coyote.AbstractProtocol.init プロトコルハンドラ ["http-nio-8080"] を初期化します。
+28-Apr-2022 15:22:43.690 情報 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Apr-2022 15:22:43.704 情報 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 723 ms
+28-Apr-2022 15:22:43.776 情報 [main] org.apache.catalina.core.StandardService.startInternal サービス [Catalina] を起動します
+28-Apr-2022 15:22:43.777 情報 [main] org.apache.catalina.core.StandardEngine.startInternal サーブレットエンジンの起動：[Apache Tomcat/8.5.73]
+28-Apr-2022 15:22:43.796 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webアプリケーションディレクトリ [/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73/webapps/examples] を配備します
+28-Apr-2022 15:22:44.350 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73/webapps/examples] の Web アプリケーションの配備は [550] ms で完了しました。
+28-Apr-2022 15:22:44.351 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webアプリケーションディレクトリ [/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73/webapps/docs] を配備します
+28-Apr-2022 15:22:44.373 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73/webapps/docs] の Web アプリケーションの配備は [22] ms で完了しました。
+28-Apr-2022 15:22:44.373 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webアプリケーションディレクトリ [/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73/webapps/ROOT] を配備します
+28-Apr-2022 15:22:44.393 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73/webapps/ROOT] の Web アプリケーションの配備は [20] ms で完了しました。
+28-Apr-2022 15:22:44.393 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webアプリケーションディレクトリ [/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73/webapps/manager] を配備します
+28-Apr-2022 15:22:44.430 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73/webapps/manager] の Web アプリケーションの配備は [37] ms で完了しました。
+28-Apr-2022 15:22:44.430 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webアプリケーションディレクトリ [/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73/webapps/host-manager] を配備します
+28-Apr-2022 15:22:44.454 情報 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory ディレクトリ [/home/smachida/workspace/workshop/microservice-demo/ms-demo-90-runtime-tomcat/apache-tomcat-8.5.73/webapps/host-manager] の Web アプリケーションの配備は [24] ms で完了しました。
+28-Apr-2022 15:22:44.462 情報 [main] org.apache.coyote.AbstractProtocol.start プロトコルハンドラー ["http-nio-8080"] を開始しました。
+28-Apr-2022 15:22:44.478 情報 [main] org.apache.catalina.startup.Catalina.start Server startup in 774 ms
+28-Apr-2022 15:34:33.266 情報 [main] org.apache.catalina.core.StandardServer.await 有効なシャットダウンコマンドがシャットダウンポート経由で受信されました。 サーバーインスタンスを停止します。
+28-Apr-2022 15:34:33.266 情報 [main] org.apache.coyote.AbstractProtocol.pause ProtocolHandler ["http-nio-8080"] を一時停止します。
+28-Apr-2022 15:34:33.273 情報 [main] org.apache.catalina.core.StandardService.stopInternal サービス [Catalina] を停止します
+28-Apr-2022 15:34:33.319 情報 [main] org.apache.coyote.AbstractProtocol.stop ProtocolHandler ["http-nio-8080"]の停止中
+28-Apr-2022 15:34:33.322 情報 [main] org.apache.coyote.AbstractProtocol.destroy ProtocolHandler ["http-nio-8080"] を破棄します。
